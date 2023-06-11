@@ -1,2 +1,2 @@
 # Sudoku
-A light sudoku generator and solver 
+A light GUI sudoku generator and solver 
