@@ -1,2 +1,2 @@
 # Sudoku
-A simple sudoku generator and solver lightframe
+A light sudoku generator and solver 
